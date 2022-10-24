@@ -10,7 +10,7 @@
 #### - Mendefinisikan variable b dengan nilai 13
 #### - Mencetak nilai variable a dan b
 #### - Mencetak hasil penjumlahan a+b
-![Gambar1](gambar/pic2.png)
+![Gambar1](gambar/pict2.png)
 
 # Latihan 3
 ## Menjalankan IDLE
