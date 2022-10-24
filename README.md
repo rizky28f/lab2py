@@ -2,7 +2,7 @@
 ## Menjalankan Python Console
 #### - Menampilkan tulisan “Hello” dilayar
 #### - Menampilkan tulisan “Saya sedang belajar python” dilayar
-![Gambar1](gambar/pic1.png)
+![Gambar1](gambar/pict1.png)
 
 # Latihan 2
 ## Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
