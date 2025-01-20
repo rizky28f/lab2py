@@ -1,4 +1,4 @@
-# Latihan 1
+# Latihan tugas uas pemrograman web
 ## Menjalankan Python Console
 #### - Menampilkan tulisan “Hello” dilayar
 #### - Menampilkan tulisan “Saya sedang belajar python” dilayar
